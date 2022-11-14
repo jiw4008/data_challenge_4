@@ -5,7 +5,9 @@ account: jiw4008
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7574741
-bundleId: 6494294
+bundleId: 6513448
 url: https://jiw4008.shinyapps.io/data_challenge_4/
-when: 1668008448.69541
-lastSyncTime: 1668008448.69542
+when: 1668453639.40192
+lastSyncTime: 1668453639.40194
+asMultiple: FALSE
+asStatic: FALSE

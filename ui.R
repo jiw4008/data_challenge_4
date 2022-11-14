@@ -13,7 +13,7 @@ trt_names <- c("Cider", "Dilute Sulfuric Acid", "Vinegar", "Sea Water", "Citrus"
 
 navbarPage("Data Challenge 4", 
            
-  tabPanel("Plot 1: Histogram for Blood Storage",
+  tabPanel("Plot 1: Bar Chart for Scurvy",
     sidebarPanel(
       h4("Scurvy Data", style = "font-weight: bold"),
       p("This data set contains 12 participants with scurvy. 
